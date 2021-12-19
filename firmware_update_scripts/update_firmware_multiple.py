@@ -4,7 +4,7 @@ import subprocess, shlex
 import os 
 import time
 
-dfu_filepath = "./capnotrainer_7_dongle_firmware_dfu.zip"
+dfu_filepath = "./capno_6_firmware_DFU_for_single_group.zip"
 
 if not os.path.exists( dfu_filepath ): 
     raise ("DFU file is not found. Make sure you have entered correct path")
