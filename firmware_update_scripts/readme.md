@@ -8,7 +8,7 @@ $ pip install nrfutil
 
 ```bash
 # Generate DFU package
-$ nrfutil pkg generate --hw-version 52 --debug-mode --sd-req 0x0100 --sd-id 0x0100 --application <APPLICATION-FILE.hex> --softdevice <SOFTDEVICE-FILE.hex> <OUTPUT.zip>
+$ nrfutil pkg generate --hw-version 52 --debug-mode --sd-req 0x0100 --sd-id 0x000 --application <APPLICATION-FILE.hex> --softdevice <SOFTDEVICE-FILE.hex> <OUTPUT.zip>
 
 # Check sd-req value
 $ nrfutil pkg generate --help
