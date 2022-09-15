@@ -1,0 +1,4 @@
+[2022-Aug-15 19:58:34] [ info] --------------------------------------------------------------------------------
+[2022-Aug-15 19:58:34] [ info] C:\Program Files\Nordic Semiconductor\nrf-command-line-tools\bin\nrfjprog.exe pkg gen--hw-version 52 --sd-req 0x100 --sd-id 0x100 --application .\ble_app_multilink_central_pca10056_s140.hex --application-version 3 --softdevice .\s140_nrf52_7.2.0_softdevice.hex --log 
+[2022-Aug-15 19:58:34] [ info] nrfjprog version 10.16.0 external
+[2022-Aug-15 19:58:34] [ info] --------------------------------------------------------------------------------
